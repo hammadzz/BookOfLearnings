@@ -10,7 +10,7 @@ Below are list of answers to common questions that you may have when thinking of
 
     To put it simply, if you don't really know what the cloud is go for the Cloud Practitioner certification. Otherwise go for the Solutions Architect Associate certification.
 
-1. <b>What types of AWS certifications are there?</b> <br/>
+1. <b>What types of AWS certifications are there?</b> <br/><br/>
 There are four types, below is the list of all current certifications:
     - Foundational:
         1. <u>Cloud Practitioner</u>: learn cloud concepts, security, technology, billing and pricing
@@ -73,6 +73,7 @@ There are four types, below is the list of all current certifications:
 
 ## Associate Exam FAQ:
 1. <b>What is the associate exam like?</b>
+
     130 minutes
 
     55-60 multiple choice / multiple response questions
