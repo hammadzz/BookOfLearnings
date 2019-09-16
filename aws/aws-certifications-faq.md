@@ -3,7 +3,7 @@ Below are list of answers to common questions that you may have when thinking of
 
 1. <b>Which certification should I get first?</b>
 
-    Are you on a hands on role?
+    Are you in a hands on role?
     
     NO (Non Technical Background)    ->  AWS Certified Cloud Practitioner <br/>
     YES (Developer, Architect)      ->  AWS Certified Solutions Architect Associate <br/>
