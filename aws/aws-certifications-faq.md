@@ -1,12 +1,13 @@
 ## AWS Certification FAQ 
 Below are list of answers to common questions that you may have when thinking of getting an AWS Certification
 
-1. <b>Which certification should I get first? </b><br/>
-Are you on a hands on role? <br/>
-NO (Non Technical Background)    ->  AWS Certified Cloud Practitioner <br/>
-YES (Developer, Architect)      ->  AWS Certified Solutions Architect Associate <br/>
-<br/>
-To put it simply if you don't know what the cloud is take Cloud Practitioner or else take Solutions Architect Associate.
+1. <b>Which certification should I get first?</b> <br/>
+    Are you on a hands on role?
+    
+    NO (Non Technical Background)    ->  AWS Certified Cloud Practitioner <br/>
+    YES (Developer, Architect)      ->  AWS Certified Solutions Architect Associate <br/>
+
+    To put it simply, if you don't really know what the cloud is go for the Cloud Practitioner certification. Otherwise go for the Solutions Architect Associate certification.
 
 1. <b>What types of AWS certifications are there?</b> <br/>
 There are four types, below is the list of all current certifications:
@@ -28,7 +29,7 @@ There are four types, below is the list of all current certifications:
 
         *<i>Solutions Architect Associate is the most popular cloud certification</i>
 
-1. <b>How much do the exams cost?</b>
+1. <b>How much does it cost to write the exams?</b>
     <table>
     <thead>
     <tr>
@@ -59,22 +60,29 @@ There are four types, below is the list of all current certifications:
     </tr>
     </table>
 1.  <b>How do I register for an exam?</b> <br/>
-Login with your Amazon Account (not aws) to register for am exam at their training website <a href="https://www.aws.training/Dashboard">aws.training</a> 
+    Login with your Amazon Account (not aws) to register for am exam at their training website <a href="https://www.aws.training/Dashboard">aws.training</a>
 
-<br/>
+1. <b>What happens if I fail the certification exam?</b>
+    You must wait atleast 14 days to reattempt the exam. There is no limit to the number of attempts but you must pay the fee in full for every attempt. 
+    
+1. <b></b>
 
 ---
 
 ## Associate Exam FAQ:
-1. <b>What is the associate exam like? <br/></b>
-130 minutes <br/>
-55-60 multiple choice / multiple response questions<br/>
-It is a proctored exam held at a testing center on their PC workstations.
+1. <b>What is the associate exam like?</b>
+    130 minutes
 
-1. <b>Do I need hands on experience before to pass the exam?</b>
-AWS recommends 1 year of experience. You could certainly manage with far less. There are free labs available (see below) that can get you the hands on experience needed.
+    55-60 multiple choice / multiple response questions
+    
+    It is a proctored exam held at a testing center on their PC workstations.
 
-1. <b>How can I get hands on experience with AWS?</b><br/>
-AWS has introductory level labs available through <a href="https://amazon.qwiklabs.com/catalog?keywords=introduction%20to&ransack=true">QwikLabs</a>. There are currently 10 labs listed for free for introductory level. Paid introductory level labs range from 1-10 credits. Currently you can buy 10 credits for $10.
+1. <b>Do I need hands on experience to pass the associate exam?</b>
+
+    Yes you do but it isn't a requirement rather a recommendation. AWS recommends atleast 1 year of experience for the associate exam. You could certainly manage with far less. There are free introductory level labs available (see below) to help get you the basic hands on experience needed to write the exam.
+
+1. <b>How can I get hands on experience with AWS?</b>
+
+    AWS has introductory level labs available through <a href="https://amazon.qwiklabs.com/catalog?keywords=introduction%20to&ransack=true">QwikLabs</a>. There are currently 10 labs listed for free for introductory level. Paid introductory level labs range from 1-10 credits. Currently you can buy 10 credits for $10. It is cheaper if you buy credits in bulk amounts.
 
 1.
