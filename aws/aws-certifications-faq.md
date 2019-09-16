@@ -8,7 +8,7 @@ YES (Developer, Architect)      ->  AWS Certified Solutions Architect Associate 
 <br/>
 To put it simply if you don't know what the cloud is take Cloud Practitioner or else take Solutions Architect Associate.
 
-1. <b>What AWS certifications are there?</b> <br/>
+1. <b>What types of AWS certifications are there?</b> <br/>
 There are four types, below is the list of all current certifications:
     - Foundational:
         1. <u>Cloud Practitioner</u>: learn cloud concepts, security, technology, billing and pricing
@@ -60,4 +60,21 @@ There are four types, below is the list of all current certifications:
     </table>
 1.  <b>How do I register for an exam?</b> <br/>
 Login with your Amazon Account (not aws) to register for am exam at their training website <a href="https://www.aws.training/Dashboard">aws.training</a> 
-1. 
+
+<br/>
+
+---
+
+## Associate Exam FAQ:
+1. <b>What is the associate exam like? <br/></b>
+130 minutes <br/>
+55-60 multiple choice / multiple response questions<br/>
+It is a proctored exam held at a testing center on their PC workstations.
+
+1. <b>Do I need hands on experience before to pass the exam?</b>
+AWS recommends 1 year of experience. You could certainly manage with far less. There are free labs available (see below) that can get you the hands on experience needed.
+
+1. <b>How can I get hands on experience with AWS?</b><br/>
+AWS has introductory level labs available through <a href="https://amazon.qwiklabs.com/catalog?keywords=introduction%20to&ransack=true">QwikLabs</a>. There are currently 10 labs listed for free for introductory level. Paid introductory level labs range from 1-10 credits. Currently you can buy 10 credits for $10.
+
+1.
