@@ -1,7 +1,8 @@
 ## AWS Certification FAQ 
 Below are list of answers to common questions that you may have when thinking of getting an AWS Certification
 
-1. <b>Which certification should I get first?</b> <br/>
+1. <b>Which certification should I get first?</b>
+
     Are you on a hands on role?
     
     NO (Non Technical Background)    ->  AWS Certified Cloud Practitioner <br/>
@@ -59,14 +60,15 @@ There are four types, below is the list of all current certifications:
     <td>$396 cad</td>
     </tr>
     </table>
-1.  <b>How do I register for an exam?</b> <br/>
-    Login with your Amazon Account (not aws) to register for am exam at their training website <a href="https://www.aws.training/Dashboard">aws.training</a>
+    
+1.  <b>How do I register for an exam?</b>
+
+    Login with your Amazon Account (not aws) to register for an exam at the AWS training website <a href="https://www.aws.training/Dashboard">aws.training</a>
 
 1. <b>What happens if I fail the certification exam?</b>
+
     You must wait atleast 14 days to reattempt the exam. There is no limit to the number of attempts but you must pay the fee in full for every attempt. 
     
-1. <b></b>
-
 ---
 
 ## Associate Exam FAQ:
@@ -84,5 +86,3 @@ There are four types, below is the list of all current certifications:
 1. <b>How can I get hands on experience with AWS?</b>
 
     AWS has introductory level labs available through <a href="https://amazon.qwiklabs.com/catalog?keywords=introduction%20to&ransack=true">QwikLabs</a>. There are currently 10 labs listed for free for introductory level. Paid introductory level labs range from 1-10 credits. Currently you can buy 10 credits for $10. It is cheaper if you buy credits in bulk amounts.
-
-1.
