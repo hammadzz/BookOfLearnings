@@ -59,7 +59,7 @@ There are four types, below is the list of all current certifications:
     </tr>
     </table>
 
-    **Note:** Getting any one certification grants you [AWS Certification benefits](https://aws.amazon.com/certification/benefits/) which include **free practice exams and 50% off any exam**.
+    **Note:** Getting any one certification grants you [AWS Certification benefits](https://aws.amazon.com/certification/benefits/) which include **free practice exams and a voucher for 50% off any exam**.
     
 1.  **How do I register for an exam?**
 
