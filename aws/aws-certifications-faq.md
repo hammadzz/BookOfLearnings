@@ -75,7 +75,7 @@ There are four types, below is the list of all current certifications:
     
 1. **Are there any pre-requisites for the Professional or Specialty exams?**
 
-    There are no longer any pre-requisites. The pre-requisite to take an Associate level certification for Professional or Specialty exams was removed in October 2018.
+    There are no longer any pre-requisites. The pre-requisite to take an Associate level certification for writing Professional and Specialty exams was removed in October 2018.
     
 ---
 
