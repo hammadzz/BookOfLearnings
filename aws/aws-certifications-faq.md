@@ -23,20 +23,20 @@ Below are list of answers to common questions for somone considering an AWS Cert
 1. **What types of AWS certifications are there?** <br/><br/>
 There are four types, below is the list of all current certifications:
     1. Foundational:
-        1. [Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/): learn cloud concepts, security, technology, billing and pricing
+        1. [Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/): learn cloud concepts, security, technology, billing and pricing. [View Exam Guide](https://d1.awsstatic.com/training-and-certification/Docs%20-%20Cloud%20Practitioner/AWS_Certified_Cloud_Practitioner-Exam_Guide_EN_v1.6.pdf)
     1. Associate:
-        1. [Solutions Architect Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/): learn how to design highly available, cost-efficient, fault tolerant, and distributed systems
-        1. [Developer Associate](https://aws.amazon.com/certification/certified-developer-associate/): learn how to develop, deploy, and debug cloud applications
-        1. [SysOps Administrator Associate](https://aws.amazon.com/certification/certified-sysops-admin-associate/): learn deployment, management, and operations
+        1. [Solutions Architect Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/): learn how to design highly available, cost-efficient, fault tolerant, and distributed systems. [View Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS_Certified_Solutions_Architect_Associate-Exam_Guide_EN_1.8.pdf)
+        1. [Developer Associate](https://aws.amazon.com/certification/certified-developer-associate/): learn how to develop, deploy, and debug cloud applications. [View Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS_Certified_Developer_Associate-Exam_Guide_EN_1.4.pdf)
+        1. [SysOps Administrator Associate](https://aws.amazon.com/certification/certified-sysops-admin-associate/): learn deployment, management, and operations. [View Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sysops-associate/AWS_Certified_SysOps_Associate-Exam_Guide_EN_1.4.pdf)
     1. Professional:
-        1. [Solutions Architect Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/): advanced knowledge = difficult
-        1. [DevOps Engineer Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/): provisioning, operating, and managing distributed application systems
+        1. [Solutions Architect Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/): advanced knowledge = difficult. [View Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS_Certified_Solutions_Architect_Professional-Exam_Guide_EN_1.2.pdf)
+        1. [DevOps Engineer Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/): provisioning, operating, and managing distributed application systems. [View Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-devops-pro/AWS%20Certified%20DevOps%20Engineer%20Professional_Exam%20Guide_v1.5_FINAL%20(2).pdf)
     1. Specialty:
-        1. [Big Data](https://aws.amazon.com/certification/certified-big-data-specialty/): learn AWS services around big data and analytics (hadoop)
-        1. [Security](https://aws.amazon.com/certification/certified-security-specialty/): learn how to secure AWS services
-        1. [Advanced Networking](https://aws.amazon.com/certification/certified-advanced-networking-specialty/): learn hybrid IT architectures with complex networking setups on AWS
-        1. [Machine Learning](https://aws.amazon.com/certification/certified-machine-learning-specialty/): learn training, tuning, deploy ML models using AWS
-        1. [Alexa Skill Builder](https://aws.amazon.com/certification/certified-alexa-skill-builder-specialty/):  (╯°□°）╯︵ ┻━┻
+        1. [Big Data](https://aws.amazon.com/certification/certified-big-data-specialty/): learn AWS services around big data and analytics (hadoop). [View Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-bigdata-spec/AWS%20Certified%20Big%20Data%20-%20Specialty_Exam%20Guide_v1.4_FINAL.pdf)
+        1. [Security](https://aws.amazon.com/certification/certified-security-specialty/): learn how to secure AWS services. [View Exam Guide](https://d1.awsstatic.com/training-and-certification/eligibilityupdates/AWS%20Certified%20Security%20Specialty_Exam%20Guide_v1.6_FINAL.pdf)
+        1. [Advanced Networking](https://aws.amazon.com/certification/certified-advanced-networking-specialty/): learn hybrid IT architectures with complex networking setups on AWS. [View Exam Guide](https://d1.awsstatic.com/training-and-certification/eligibilityupdates/AWS%20Certified%20Advanced%20Networking%20-%20Speciality_Exam_Guide_v1.2_FINAL.pdf)
+        1. [Machine Learning](https://aws.amazon.com/certification/certified-machine-learning-specialty/): learn training, tuning, deploy ML models using AWS. [View Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-ml/AWS%20Certified%20Machine%20Learning%20-%20Specialty_Exam%20Guide%20(1).pdf)
+        1. [Alexa Skill Builder](https://aws.amazon.com/certification/certified-alexa-skill-builder-specialty/):  (╯°□°）╯︵ ┻━┻ . [View Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-alexa-skill-builder-specialty/AWS_Certified_Alexa_Skill_Builder-Specialty_Exam_Guide_v1.1.pdf)
 
 1. **How much does it cost to write the exams?**
     <table>
