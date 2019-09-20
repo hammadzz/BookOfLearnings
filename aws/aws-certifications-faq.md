@@ -5,17 +5,18 @@ Below are list of answers to common questions for somone considering an AWS Cert
 1. **Why should I get certified?**
     
     Studying content and getting ready for an exam takes time. So why should you get certified?
-    - Knowledge: it gives you an opportunity to learn more deeply about AWS and their approach to the cloud. It won't give you best practices but will get you in the way of better practices.
-    - Validation: it helps you give your employer some degree of validation on your knowledge.
-    - Distinction: helps you standout for specialty areas of the AWS Cloud
-    -   
+    - Knowledge: it gives you an opportunity to learn more deeply about AWS. Particularly the way AWS thinks about the cloud and their services. Will give you better practices and start you on your way to best practices.
+    - Validation: it helps you give your employer some degree of validation on your knowledge. You do get a digital badge for LinkedIn, resume, laptop sticker, tattoo etc.
+    - Distinction: helps you standout for specialty areas of the AWS Cloud.
+    
+    TLDR: Knowledge + Validation + Distinction = More Value. You can earn more by getting certified.
 
 1. **Which certification should I get first?**
     
     Manager or Scrum Master &nbsp;&nbsp; --> [Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) <br/>
     Developer or Architect &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; --> [Solutions Architect Associate*](https://aws.amazon.com/certification/certified-solutions-architect-associate/) <br/>
 
-    If you want to learn what the AWS Cloud is take the Practitioner certification. If you want to build on the AWS Cloud take the Solutions Architect Associate certification.
+    If you want to learn what the AWS Cloud is take the Practitioner certification. If you want to build on the AWS Cloud take the Solutions Architect Associate certification.  If you feel confident and have a few years of experience you can jump right ahead to Professional level certifications.
 
     *<i>Solutions Architect Associate is the most popular cloud certification</i>
 
@@ -73,6 +74,13 @@ There are four types, below is the list of all current certifications:
 1.  **How do I register for an exam?**
 
     Go to [aws.training](https://www.aws.training/Dashboard) and login with your Amazon Account (not aws) to register for an exam at a nearby testing center. The Cloud Practitioner exam is now available as an online proctored exam.
+
+1. **What do I need to score to pass the exam?**
+
+    Official AWS Answer:
+    >AWS Certification passing scores are set by using statistical analysis and are subject to change. AWS does not publish exam passing scores because exam questions and passing scores are updated to reflect changes in test forms as the content is updated. 
+
+    Usually for associate it can range from as low as 70% to as high as 90%. With an 80% you can be fairly confident you passed.
 
 1. **What happens if I fail the certification exam?**
 
