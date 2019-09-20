@@ -1,5 +1,14 @@
 ## AWS Certification FAQ 
-Below are list of answers to common questions that you may have when thinking of getting an AWS Certification
+
+Below are list of answers to common questions for somone considering an AWS Certification
+
+1. **Why should I get certified?**
+    
+    Studying content and getting ready for an exam takes time. So why should you get certified?
+    - Knowledge: it gives you an opportunity to learn more deeply about AWS and their approach to the cloud. It won't give you best practices but will get you in the way of better practices.
+    - Validation: it helps you give your employer some degree of validation on your knowledge.
+    - Distinction: helps you standout for specialty areas of the AWS Cloud
+    -   
 
 1. **Which certification should I get first?**
     
@@ -114,3 +123,5 @@ There are four types, below is the list of all current certifications:
         - Contains Q/A, notes, and recent experiences from the exams.
     - [Reddit /r/AWS](https://www.reddit.com/r/aws)
         - Great spot for tougher AWS questions.
+    - [A Cloud Guru vs. Linux Academy vs. Others (Reddit Post)](https://www.reddit.com/r/aws/comments/cg2ioy/a_cloud_guru_vs_linux_academy_vs_others/)
+        - A good discussion comparing experiences between different learning providers to help you make a decision.
