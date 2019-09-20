@@ -133,3 +133,6 @@ There are four types, below is the list of all current certifications:
         - Great spot for tougher AWS questions.
     - [A Cloud Guru vs. Linux Academy vs. Others (Reddit Post)](https://www.reddit.com/r/aws/comments/cg2ioy/a_cloud_guru_vs_linux_academy_vs_others/)
         - A good discussion comparing experiences between different learning providers to help you make a decision.
+
+## Errors or Omissions?
+Please to create a pull request if you find an error, omission, or want to contribute. Thanks!
