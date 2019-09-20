@@ -98,13 +98,19 @@ There are four types, below is the list of all current certifications:
 
 1. **What resources are available to prepare for the exams?**
     - [ACloudGuru](https://acloud.guru/):
-        - They offer video lectures, question forum, and practice exams. Great for getting Associate level certification courses. Their monthly subscription is [$29USD/month](https://acloud.guru/pricing) but their courses used to go on sale for $19USD on [Udemy](https://www.udemy.com/aws-certified-solutions-architect-associate/) prior to them offering their new subscription model. Also checkout their [Discussion Form](https://acloud.guru/forums/all/) for real exam questions, notes, and recent experiences from the exams.
+        - ACloudGuru offers digital courses (video format), question forum, and practice exams. Their monthly subscription is [$29USD/month](https://acloud.guru/pricing) to access all courses.
+        - ACloudGuru has the same associate level courses listed at [Udemy](https://www.udemy.com/), don't pay more than $20CAD as they are regularly on sale and marked down by 90% (Regular $185CAD):
+            - [ACloudGuru Solutions Architect Associate Course](https://www.udemy.com/aws-certified-solutions-architect-associate/)
+            - [ACloudGuru Certified SysOps Administrator Associate Course](https://www.udemy.com/aws-certified-sysops-administrator-associate/)
+            - [ACloudGuru Certified Developer Associate Course](https://www.udemy.com/aws-certified-developer-associate/)
+        - Also checkout the [ACloudGuru Discussion Form](https://acloud.guru/forums/all/) which is an excellent resource for real exam questions, notes, and recent experiences from the exams.
     - [Linux Academy](https://linuxacademy.com/):
         - They offer courses on everything you can imagine. Some courses can be a hit or miss so do your research or use the trial and try the course you are after before signing up. Their monthly subscription is [$49USD/month](https://linuxacademy.com/pricing/)
     - [AWS Certified Solutions Architect Associate Official Study Guide](https://www.amazon.ca/Certified-Solutions-Architect-Official-Study/dp/1119138558):
-        - Currently the only AWS Official Study Guide. Intended for Solutions Architect Associate but may prove useful for other Associate level certifications. Includes practice questions for each chapter and practice exams.
+        - Currently the only AWS Official Study Guide (Book). Intended for Solutions Architect Associate but may prove useful for other Associate level certifications. Includes practice questions for each chapter and practice exams.
+    - [AWS Official Learning Library](https://www.aws.training/LearningLibrary):
+        - These are Official AWS Exam Readiness courses. Focused on helping you with passing the exam more than actually learning the content of the exam.
     - [Reddit /r/AWSCertifications](https://www.reddit.com/r/AWSCertifications):
         - Contains Q/A, notes, and recent experiences from the exams.
     - [Reddit /r/AWS](https://www.reddit.com/r/aws)
         - Great spot for tougher AWS questions.
-    
